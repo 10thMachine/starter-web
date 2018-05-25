@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Jesstin Swadley		jesstinswadley1@gmail.com	N/A
 
 # THANKS
 
